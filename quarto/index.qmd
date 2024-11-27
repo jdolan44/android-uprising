@@ -1,0 +1,16 @@
+---
+title: "android-uprising"
+---
+
+## Android Uprising
+
+get the data from the original file:
+```{r}
+library(readxl)
+android_data <- read_excel("../data/uprising-1.xlsx")
+```
+
+clear environment: (cause I always forget it)
+```{r}
+rm(list = ls())
+```
