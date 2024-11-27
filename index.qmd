@@ -1,0 +1,9 @@
+---
+title: "android-uprising"
+---
+
+## Android Uprising
+
+```{r}
+1 + 1
+```
